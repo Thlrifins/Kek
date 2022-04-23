@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T16:55:03.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="Kjudkv8yJECs5qZIqj5I" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T16:57:40.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="liN7eL-W6RFbBRWLbmBx" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="381" dy="234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,10 +57,10 @@
         <mxCell id="3lqujhRiAD5C8fgWdVhh-31" value="ใบเสนอราคา" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3lqujhRiAD5C8fgWdVhh-32" value="ขอรายละเอียด" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="3lqujhRiAD5C8fgWdVhh-31">
+        <mxCell id="3lqujhRiAD5C8fgWdVhh-32" value="ขอรายละเอียด" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="3lqujhRiAD5C8fgWdVhh-31">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3lqujhRiAD5C8fgWdVhh-33" value="เช็คราคา" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="3lqujhRiAD5C8fgWdVhh-31">
+        <mxCell id="3lqujhRiAD5C8fgWdVhh-33" value="เช็คราคา" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;" vertex="1" parent="3lqujhRiAD5C8fgWdVhh-31">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3lqujhRiAD5C8fgWdVhh-34" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="3lqujhRiAD5C8fgWdVhh-31">
